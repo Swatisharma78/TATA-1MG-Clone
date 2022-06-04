@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+# Tata 1 mg
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- We are a team of 6 from Unit-4, Masai School, batch FT-16, who worked on cloning the Tata 1mg website as part of our Unit-4 construct week. As a team, we were assigned to clone the Tata 1mg website. Our project demonstrates a basic flow of an e-commerce page, where a customer can view and filter products, add their product to a cart and place his or her happy order.
+- Tata 1mg, previously 1mg, is a healthcare platform based in Gurgaon, India. It provides services, including e-pharmacy, diagnostics, e-consultation and health content.
 
-## Available Scripts
+## 🔗Deployed Link
+https://relaxed-mousse-6ea758.netlify.app/
 
-In the project directory, you can run:
+## Homepage
+![Tata1mg-HomePage](https://user-images.githubusercontent.com/74173626/167311801-ec9942ea-3b0e-4d46-b3a0-3cacacd7b7b4.png)
 
-### `npm start`
+## Login page
+![Tata1mg-LoginPage](https://user-images.githubusercontent.com/74173626/167312289-20663023-f532-42db-99a0-21c614238aad.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Signup page
+![Tata1mg-SignupPage](https://user-images.githubusercontent.com/74173626/167312319-51b0ad63-e959-47df-9d41-7b20f1c771ba.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Lab Tests page
+![Tata1mg-LabTestsPage](https://user-images.githubusercontent.com/74173626/167311835-f054efa3-0970-40e6-a15d-4f6dd866968b.png)
 
-### `npm test`
+## Ask Doctor page
+![Tata1mg-AskDocPage](https://user-images.githubusercontent.com/74173626/167311871-28dfe491-e3d3-484b-aef5-a2669991f02b.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Covid-19 page
+![Tata1mg-Covid-19Page](https://user-images.githubusercontent.com/74173626/167311888-2554d60c-4daa-4e1e-8c0f-66d41c655b11.png)
 
-### `npm run build`
+## Ayurveda page
+![Tata1mg-AyurvedaPage](https://user-images.githubusercontent.com/74173626/167311911-4f40baae-78d9-4fb0-bca5-0de34611c8de.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Care Plan page
+![Tata1mg-CarePlanPage](https://user-images.githubusercontent.com/74173626/167311973-f54e9be4-8bd8-4779-b10e-2ea55f289dc2.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Products page
+![Tata1mg-ProductsPage](https://user-images.githubusercontent.com/74173626/167312080-0e1bfea6-962e-41fe-bef8-45eade9444e6.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Product Details page
+![Tata1mg-ProductDetailsPage](https://user-images.githubusercontent.com/74173626/167312145-79024ef8-b5a5-45dd-af1a-2bc4dcb2ab19.png)
 
-### `npm run eject`
+## Cart page
+![Tata1mg-CartPage](https://user-images.githubusercontent.com/74173626/167312257-d1478b0d-84b8-4419-baf1-a082f491444b.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Upload Prescription page
+![Tata1mg-UploadPrescriptionPage](https://user-images.githubusercontent.com/74173626/167312427-66d81b76-9ac6-4cbc-8cbf-bc707286a989.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Payment page
+![Tata1mgPaymentPage](https://user-images.githubusercontent.com/74173626/167362134-020c6503-164f-4d03-b3e3-ac48997c67ea.jpeg)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Features
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- User Friendly
+- Easy UI
+- Fullscreen mode
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Tech Stack used
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- HTML
+- CSS
+- JavaScript (ES6)
+- ReactJS
+- Redux
+- JSON API
 
-### Code Splitting
+Thank You😍😍
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
